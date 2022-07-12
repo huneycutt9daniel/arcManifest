@@ -1,0 +1,11 @@
+{
+    "connections": [
+        {
+            "ServerName": "<Server Name>",
+            "TokenGenURL": "https://<ArcServer>/server/admin/generateToken",
+            "DirURL": "https://<ArcServer>/server/admin/services/",
+            "Username": "",
+            "Password": ""
+        }
+    ]
+}
